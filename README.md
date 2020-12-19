@@ -6,10 +6,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on an Arduino project called ColAruco, more details on the project repository.
-- 🌱 I’m currently learning c / cpp / arduino
+- 🎓 I'm an Electrical Engeneering student at FEUP.
+- 🔭 I'm currently working on an Arduino project called ColAruco, more details on the project repository.
+- 🌱 I'm currently learning c / cpp / arduino
 - 💬 Ask me about whatever
 - 📫 How to reach me: email (should be visible on my profile)
-
-
