@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Electrical and Computers Engineering student @FEUP.
+- 🎓 Electrical and Computers Engineering student at FEUP.
 - 🔭 I'm currently working on an Arduino project called ColAruco, more details on the project repository.
 - 🌱 I'm currently learning c / cpp / python
 - 💬 Ask me about whatever
