@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 -->
 - 🎓 Electrical and Computers Engineering student at FEUP.
 - 🔭 I'm currently working on an Arduino project called ColAruco, more details on the project repository.
-- 🌱 I'm currently learning c / cpp / python
+- 🌱 I'm currently learning c / cpp / python and I'm a computer vision enthusiast
 - 💬 Ask me about whatever
 - 📫 How to reach me: email (should be visible on my profile)
