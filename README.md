@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Electrical and Computers Engineering student at FEUP.
-- 🔭 I'm currently working on an Arduino project called ColAruco, more details on the project repository.
-- 🌱 I'm currently learning c / cpp / python and I'm a computer vision enthusiast
+- 🔭 I'm currently a member of the Electronics & Software department at the Formula Student FEUP team.
+- 🌱 I'm learning c / cpp / python.
 - 💬 Ask me about whatever
 - 📫 How to reach me: email (should be visible on my profile)
