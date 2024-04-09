@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 Electrical and Computers Engineering Masters student at FEUP.
-- 🌱 Rust And Go enthusiast
+- 🦀 Rust And Go enthusiast
 - 💬 Ask me about whatever
 - 📫 How to reach me: email (should be visible on my profile)
