@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Electrical and Computers Engineering student at FEUP.
-- 🔭 I'm currently a member of the Electronics & Software department at the Formula Student FEUP team.
-- 🌱 I'm learning c / cpp / python.
+- 🎓 Electrical and Computers Engineering Masters student at FEUP.
+- 🌱 Rust And Go enthusiast
 - 💬 Ask me about whatever
 - 📫 How to reach me: email (should be visible on my profile)
