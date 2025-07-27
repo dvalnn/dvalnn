@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Electrical and Computers Engineering Masters student at FEUP.
-- 🦀 Rust And Go enthusiast
-- 💬 Ask me about whatever
-- 📫 How to reach me: email (should be visible on my profile)
+- 🎓 Msc. in Electrical and Computer Engineering
+- 🦀 Rust and Go enthusiast
+- 💬 Interested in Smart Cities, the IoT, and the Semantic Web
